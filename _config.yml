@@ -30,9 +30,31 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
+markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  # see https://github.com/benbalter/jekyll-relative-links
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+minima:
+  skin: dark
+  #social_links:
+  #  - { platform: twitter, user_url: "https://twitter.com/pytrollorg" }
+  #  - { platform: github, user_url: "https://github.com/pytroll" }
+header_pages:
+  - index.markdown
+  - about.md
+  - research.md
+  - data_access.md
+  - contact.md
+  # - new_and_results.md
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
