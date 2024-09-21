@@ -1,7 +1,5 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: home
 ---
 
 
@@ -21,4 +19,5 @@ Norway and FMI (all partners in the MetCoOp consortium) operate one and the
 same model implementation covering the Scandinavian/Nordic domain. DMI operates
 its model (together with Iceland) on a set of different domains covering
 Denmark, as well as Iceland and Greenland (IGB model).
+
 
