@@ -25,7 +25,7 @@ description: >- # this means to ignorenewlines until "baseurl:"
   the Arctic Weather Satellite (AWS) data in the context of the regional
   Numerical Weather Prediction (NWP) modelling systems of the Nordic countries.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://artic-weather-satellite.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://arctic-weather-satellite.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
