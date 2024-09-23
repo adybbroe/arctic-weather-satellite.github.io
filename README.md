@@ -1,6 +1,6 @@
 # arctic-weather-satellite
 
-This is the placeholder for the static pytroll website.
+This is the placeholder for the static AWS website.
 
 ## Jekyll Theme
 
@@ -20,8 +20,8 @@ To see what this website will look like in a local environment:
 1. Create a conda environment with ruby installed:
 
    ```bash
-   conda create -n pytroll_site "ruby<3.0" compilers
-   conda activate pytroll_site
+   conda create -n aws_site "ruby>3" compilers
+   conda activate aws_site
    gem install rb-inotify jekyll
    ```
 
@@ -43,4 +43,3 @@ To see what this website will look like in a local environment:
 Note: We must use ruby 2.6+ as the current version of github pages (225) has
 dependencies that are 2.6+. We also don't explicitly install `rb-bundler` as
 we used to because it is vendored into conda-forge's version of ruby 2.6.
-
