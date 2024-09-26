@@ -21,11 +21,11 @@
 title: Performance evaluation of Arctic Weather Satellite data
 email: arctic-weather-satellite@smhi.se
 description: >- # this means to ignorenewlines until "baseurl:"
-  The over all objective of the project is to perform an early evaluation of
+  The overarching goal of the project is to perform an early evaluation of
   the Arctic Weather Satellite (AWS) data in the context of the regional
   Numerical Weather Prediction (NWP) modelling systems of the Nordic countries.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://arctic-weather-satellite.github.io/arctic-weather-satellite/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://arctic-weather-satellite.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -49,6 +49,7 @@ header_pages:
   - index.markdown
   - about.md
   - research.md
+  - publications.md
   - data_access.md
   - contact.md
   # - new_and_results.md
