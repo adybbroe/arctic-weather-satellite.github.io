@@ -48,6 +48,7 @@ minima:
 header_pages:
   - index.markdown
   - about.md
+  - news_and_results.md
   - research.md
   - publications.md
   - data_access.md

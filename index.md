@@ -16,7 +16,7 @@ Photo: ©ESA
 Performance evaluation of Arctic Weather Satellite data is an ESA funded
 project spanning four years and kicked off the 9th of December, 2021.
 
-The overarching goal  of the project is to perform an early evaluation of the
+The overarching goal of the project is to perform an early evaluation of the
 Arctic Weather Satellite (AWS) data in the context of the regional Numerical
 Weather Prediction (NWP) modelling systems of the Nordic countries.
 
@@ -29,11 +29,11 @@ European Space Agency (ESA). It carries a single instrument, a passive
 microwave radiometer, measuring the upwelling radiance from the
 earth-atmosphere system in 19 spectral channels (from around 50 to 325 GHz). 
 
-The industrial team is led by OHB Sweden. OHB Sweden is the mission prime,
-platform provider and system integrator, Omnisys instruments AB is the
-Instrument prime and Thales Alenia Space provides the Ground Segment
-(incl. operations). The entire AWS industrial team includes 31 companies from
-12 different countries.
+The industrial team of 31 companies from 12 different countries is led by OHB
+Sweden. OHB Sweden is the mission prime, platform provider and system
+integrator. Omnisys instruments AB is the Instrument prime and Thales Alenia
+Space provides the Ground Segment (incl. operations). The entire AWS industrial
+team includes 31 companies from 12 different countries.
 
 The AWS satellite, or the AWS-PFM (PFM=proto flight model), acts as a prototype
 for a larger constellation of small satellites, the <a
@@ -48,5 +48,11 @@ temporal MW data coverage globally, with a particular good coverage of the
 Arctic and high latitudes. Coverage over Scandinavia will have a
 time-to-coverage down to approximately 30 minutes over most of the day.
 
+## Links
 
+ - [Arctic Weather Satellite](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Arctic_Weather_Satellite)
+ - [AWS facts](https://esamultimedia.esa.int/docs/EarthObservation/Arctic_weather_satellite_factsheet2_240410.pdf)
+ - [EPS-Sterna facts](https://www.eumetsat.int/media/51305)
+ - [ESA](https://www.esa.int/)
+ - [EUMETSAT](https://www.eumetsat.int/)
 

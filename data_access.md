@@ -3,6 +3,46 @@ layout: page
 title: Real-time data
 ---
 
+## The AWS ground segment and access to global data
+
+As part of the ground segment setup under the industrial contract for ESA the
+global AWS data, full orbits of stored mission data, are acquired in real-time
+at Svalbard. The data are then sent to the <a
+href="https://www.ksat.no/ground-network-services/satellite-operation/">KSAT
+satellite operations center</a> in Tromsø, Norway, processed to level-1b, and
+then sent further on to <a href="https://www.eumetsat.int">EUMETSAT</a> in
+Darmstadt. EUMETSAT will then distribute the data over EUMETCast (Terrestrial),
+first to NMSes of the EUMETSAT member states, and later to all EUMETCast
+users. The timeliness of these global data is expected to be around 110
+minutes.
+
+
+## A Nordic Direct Broadcast ground segment
+
+For <a href="about.html">this</a> project a direct broadcast ground segment has
+been setup in collaboration with EUMETSAT (see the <a
+href="https://zenodo.org/doi/10.5281/zenodo.10782613">Ground Segment
+Development Plan</a>) covering Northern Europe and parts of the Arctic. AWS
+data are received in real-time from the Direct Readout stations in
+Kangerlussuaq, Greenland, Oslo, Norway, and Sodankylä, Finland. The Greenland
+data are sent via DMI in Copenhagen to SMHI in Norrköping, Sweden for further
+processing. The data from the Oslo and Sodankylä are processed locally. As all
+three stations have also other commitments than AWS reception not all visible
+passes will be acquired.
+
+It is expected that around 60% of the AWS passes visible from Kangerlussuaq
+will be acquired. For the feno Scandinavian region AWS reception efficiency will be
+higher, resulting in an expected overall 80% AWS reception efficiency over the
+entire Nordic AWS ground segment.
+
+![](assets/img/nordic_antenna_coverage_600km_v2.PNG)
+*Antenna horizons for a satellite at 600 km for the four Direct Readout
+stations in the ground segment.  This illustrating the approximate AWS data
+coverage of the Nordic ground segment. The SMHI stations in Norrköping is not
+yet AWS compliant, and will be used only to compensate the Oslo station with
+other satellite data (e.g. JPSS) sacrificed there when prioritising AWS.*
+
+
 ## Example - how to fetch data
 
 To download Arctic Weather Satellite data from the three Nordic S3 buckets you will need to get access/secret key pairs, one pair of keys for each bucket. Also, of couse you need to know the URLs and the bucket names. For all that, please contact us at: <a href="assets/img/email_image.png"><img src="assets/img/email_image.png" alt="Contact us at email address" height="20"/></a>
