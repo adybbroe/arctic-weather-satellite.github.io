@@ -5,12 +5,8 @@
 layout: home
 ---
 
-<p align="center">
-    <a href="assets/img/Arctic_Weather_Satellite_small_but_perfectly_formed.png">
-        <img src="assets/img/Arctic_Weather_Satellite_small_but_perfectly_formed_small.png" alt="Arctic Weather Satellite" height="350"/>
-    </a>
-</p>
-Photo: ©ESA
+![](assets/img/Arctic_Weather_Satellite_small_but_perfectly_formed_small.png){: width="800"}
+*Photo: &copy; ESA*
 
 
 Performance evaluation of Arctic Weather Satellite data is an ESA funded

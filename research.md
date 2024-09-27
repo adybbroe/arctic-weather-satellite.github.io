@@ -21,12 +21,8 @@ Denmark, as well as Iceland and Greenland (IGB model).
 
 In this project the evaluation will consider the two domains shown below:
 
-<p align="center">
-    <a href="assets/img/nordic_arome_domains_cropped.png">
-        <img src="assets/img/nordic_arome_domains_cropped.png" alt="Harmonie-Arome NWP domains considered" height="500"/>
-    </a>
-</p>
-
+![](assets/img/nordic_arome_domains_cropped.png){: width="800"}
+*HARMONIE-AROME NWP domains considered for the evaluation.*
 
 
 ## Work packages
