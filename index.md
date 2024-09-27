@@ -7,7 +7,7 @@ layout: home
 
 <p align="center">
     <a href="assets/img/Arctic_Weather_Satellite_small_but_perfectly_formed.png">
-        <img src="assets/img/Arctic_Weather_Satellite_small_but_perfectly_formed_small.png" alt="Arctic Weather Satellite logo" height="350"/>
+        <img src="assets/img/Arctic_Weather_Satellite_small_but_perfectly_formed_small.png" alt="Arctic Weather Satellite" height="350"/>
     </a>
 </p>
 Photo: ©ESA
@@ -32,8 +32,7 @@ earth-atmosphere system in 19 spectral channels (from around 50 to 325 GHz).
 The industrial team of 31 companies from 12 different countries is led by OHB
 Sweden. OHB Sweden is the mission prime, platform provider and system
 integrator. Omnisys instruments AB is the Instrument prime and Thales Alenia
-Space provides the Ground Segment (incl. operations). The entire AWS industrial
-team includes 31 companies from 12 different countries.
+Space provides the Ground Segment (incl. operations).
 
 The AWS satellite, or the AWS-PFM (PFM=proto flight model), acts as a prototype
 for a larger constellation of small satellites, the <a
