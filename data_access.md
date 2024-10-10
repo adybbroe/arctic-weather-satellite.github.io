@@ -26,12 +26,12 @@ Development Plan</a>) covering Northern Europe and parts of the Arctic. AWS
 data are received in real-time from the Direct Readout stations in
 Greenland, Norway, Finland.
 
-![](assets/img/nordic_antenna_coverage_600km_v2.PNG)
-*Antenna horizons for a satellite at 600 km for the four Direct Readout
-stations in the ground segment. This illustrating the approximate AWS data
-coverage of the Nordic ground segment. The SMHI station in Norrköping is not
-yet AWS compliant, and will be used only to compensate the Oslo station with
-data from other satellites (JPSS) which has to be sacrificed there when
+![](assets/img/aws_horizon_kan_osl_sod_tight.png)
+*Antenna horizons for a satellite at 595 km for the three Direct Readout
+stations considered for AWS reception. This corresponds to the approximate AWS
+data coverage of the Nordic ground segment. The SMHI station in Norrköping is
+not yet AWS compliant, and will be used only to compensate the Oslo station
+with data from other satellites (JPSS) which has to be sacrificed there when
 prioritising AWS.*
 
 The Greenland data are sent via DMI in Copenhagen, Denmark, to SMHI in
