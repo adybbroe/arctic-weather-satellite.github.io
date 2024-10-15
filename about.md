@@ -37,6 +37,6 @@ Universities, one in Denmark and one in Sweden:
 ![](assets/img/Metno_logo.png){: height="60"}
 ![](assets/img/fmilogo_neg.png){: height="60"}
 ![](assets/img/dmilogo.png){: height="60"}
-![](assets/img/technical-university-of-denmark--dtu--19-logo_cropped_text.png){: height="60"}
+![](assets/img/dtu_logo_White_RGB.png){: height="60"}
 ![](assets/img/AvancezChalmers_white_centered.png){: height="60"}
 ![](assets/img/SMHI_logo_white_small.png){: height="60"}
