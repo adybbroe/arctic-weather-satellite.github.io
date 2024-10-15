@@ -24,7 +24,7 @@ been setup in collaboration with EUMETSAT (see the <a
 href="https://zenodo.org/doi/10.5281/zenodo.10782613">Ground Segment
 Development Plan</a>) covering Northern Europe and parts of the Arctic. AWS
 data are received in real-time from the Direct Readout stations in
-Greenland, Norway, Finland.
+Greenland, Norway and Finland.
 
 ![](assets/img/aws_horizon_kan_osl_sod_tight.png)
 *Antenna horizons for a satellite at 595 km for the three Direct Readout
