@@ -46,7 +46,7 @@ minima:
   #  - { platform: twitter, user_url: "https://twitter.com/pytrollorg" }
   #  - { platform: github, user_url: "https://github.com/pytroll" }
 header_pages:
-  - index.markdown
+  - index.md
   - about.md
   - news_and_results.md
   - research.md
@@ -54,7 +54,6 @@ header_pages:
   - data_access.md
   - contact.md
   # - new_and_results.md
-
 
 
 # Exclude from processing.
