@@ -35,3 +35,5 @@ gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.8.2"
+gem "csv"
+gem 'ffi', '~> 1.15' # Use the latest version compatible with Ruby 3.4.2
